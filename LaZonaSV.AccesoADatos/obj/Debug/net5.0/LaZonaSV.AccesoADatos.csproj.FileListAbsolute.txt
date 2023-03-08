@@ -1,0 +1,45 @@
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.deps.json
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\ref\LaZonaSV.AccesoADatos.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.AssemblyInfo.cs
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.CopyComplete
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\ref\LaZonaSV.AccesoADatos.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.deps.json
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.AssemblyInfo.cs
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.CopyComplete
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\refint\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\ref\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.deps.json
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.AssemblyInfo.cs
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.csproj.CopyComplete
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\refint\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.AccesoADatos\obj\Debug\net5.0\ref\LaZonaSV.AccesoADatos.dll

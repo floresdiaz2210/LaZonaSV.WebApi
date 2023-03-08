@@ -1,0 +1,50 @@
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.deps.json
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\ref\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.pdb
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\ref\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\Alexander Garcia\OneDrive\Escritorio\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.deps.json
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\refint\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.pdb
+C:\Users\FERNANlml\Downloads\LaZonaSVbueno\LaZonaSV\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\ref\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.deps.json
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.LogicaDeNegocio.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.AccesoADatos.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.AccesoADatos.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\bin\Debug\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\refint\LaZonaSV.LogicaDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\LaZonaSV.LogicaDeNegocio.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.LogicaDeNegocio\obj\Debug\net5.0\ref\LaZonaSV.LogicaDeNegocio.dll

@@ -1,0 +1,12 @@
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\bin\Release\net5.0\LaZonaSV.EntidadesDeNegocio.deps.json
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\bin\Release\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\bin\Release\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\LaZonaSV.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\LaZonaSV.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\LaZonaSV.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\LaZonaSV.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\LaZonaSV.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\refint\LaZonaSV.EntidadesDeNegocio.dll
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\LaZonaSV.EntidadesDeNegocio.pdb
+C:\Users\FERNANlml\Desktop\Practica Profesional\LaZonaSV\LaZonaSV.EntidadesDeNegocio\obj\Release\net5.0\ref\LaZonaSV.EntidadesDeNegocio.dll
